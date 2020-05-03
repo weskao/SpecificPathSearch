@@ -1,0 +1,9 @@
+D:\Users\user\VS Workspaces\SpecificPathSearch\SpecificPathSearch\SpecificPathSearch\bin\Debug\Specific Path Searcher.exe.config
+D:\Users\user\VS Workspaces\SpecificPathSearch\SpecificPathSearch\SpecificPathSearch\bin\Debug\Specific Path Searcher.exe
+D:\Users\user\VS Workspaces\SpecificPathSearch\SpecificPathSearch\SpecificPathSearch\bin\Debug\Specific Path Searcher.pdb
+D:\Users\user\VS Workspaces\SpecificPathSearch\SpecificPathSearch\SpecificPathSearch\obj\Debug\SpecificPathSearch.csprojAssemblyReference.cache
+D:\Users\user\VS Workspaces\SpecificPathSearch\SpecificPathSearch\SpecificPathSearch\obj\Debug\SpecificPathSearch.SearchForm.resources
+D:\Users\user\VS Workspaces\SpecificPathSearch\SpecificPathSearch\SpecificPathSearch\obj\Debug\SpecificPathSearch.Properties.Resources.resources
+D:\Users\user\VS Workspaces\SpecificPathSearch\SpecificPathSearch\SpecificPathSearch\obj\Debug\SpecificPathSearch.csproj.GenerateResource.cache
+D:\Users\user\VS Workspaces\SpecificPathSearch\SpecificPathSearch\SpecificPathSearch\obj\Debug\Specific Path Searcher.exe
+D:\Users\user\VS Workspaces\SpecificPathSearch\SpecificPathSearch\SpecificPathSearch\obj\Debug\Specific Path Searcher.pdb
