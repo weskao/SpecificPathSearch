@@ -1,26 +1,26 @@
-(1) ��U�@�hor�}��  ��button  (���Uenter�� or �I���ӫ��s)
-����: �Y��select item �� folder => ��U�@�h
-		      �� �ɮ�   => �����}�Ҹ��ɮ�	
+(1) 找下一層or開啟  的button  (按下enter鍵 or 點擊該按鈕)
+說明: 若該select item 為 folder => 找下一層
+		      為 檔案   => 直接開啟該檔案	
 
-(2) �W�[ �]�t�u�l��Ƨ��v��checkbox���s�A��user�j�M�ɥi��ܬO�_��l��Ƨ��]�i��j�M
+(2) 增加 包含「子資料夾」的checkbox按鈕，讓user搜尋時可選擇是否對子資料夾也進行搜尋
 
-(��) �ۦ�
+(★) 著色
 
-(4) �۰ʧ���
+(4) 自動完成
 
-(��) ���ɮį� (���j�M������r���S�g�F���)
+(★) 提升效能 (當搜尋的關鍵字內沒寫東西時)
 
-(6) group box �h�����
+(6) group box 去除邊框
 
-(7) �b����W�[�@�Ǥp�ϥܡA�åB�I���ӹϥܫ�|������w�ʧ@
-[7-1]: �I�ϥܫ�  �s����H�U�o�Ӻ��} https://pixlr.com/editor/
+(7) 在旁邊增加一些小圖示，並且點擊該圖示後會執行指定動作
+[7-1]: 點圖示後  連結到以下這個網址 https://pixlr.com/editor/
 
-(8) �W�[���|�ܧ󪺧ֱ��s: ���U��button����D���|�N�H�����
+(8) 增加路徑變更的快捷鈕: 按下該button之後主路徑將隨之更改
 
-(9) �s�W�ֱ���: �q��L���U�ֱ��������w�ʧ@
+(9) 新增快捷鍵: 從鍵盤按下快捷鍵執行指定動作
 
-(��)�k����(�ŤU�B�ƻs�B�R���B�ƻs���|)
+(★)右鍵選單(剪下、複製、刪除、複製路徑)
 
-(��)�R���ɮקֱ���(Delete)
+(★)刪除檔案快捷鍵(Delete)
 
-( �� = �w���� )
+( ★ = 已完成 )
